@@ -1,0 +1,13 @@
+1 subarray sum == target or == 0
+2 kadens algo
+
+3 => sliding window problem using queue
+
+4 =>linked list detect loop, middle, nth, cycle
+
+5=>backtracking combination sum  subset size k 
+    with 2 T.C => k **n vs 2**(k*n)
+
+heap=> median ina stream
+
+topological sorting =>dfs mainly used and also lean bfs indegre
